@@ -730,41 +730,78 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #cc2952;
 }
-.cid-rS5ihVdTTF {
-  padding-top: 30px;
+.cid-rS5qxAdruj {
+  background: #ffffff;
+  padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
 }
-.cid-rS5ihVdTTF .mbr-text,
-.cid-rS5ihVdTTF blockquote {
-  color: #767676;
+.cid-rS5qxAdruj .image-block {
+  margin: auto;
 }
-.cid-rS5ihVdTTF .mbr-text P {
-  text-align: center;
+.cid-rS5qxAdruj figcaption {
+  position: relative;
 }
-.cid-rS5ixdNSVY {
-  padding-top: 30px;
+.cid-rS5qxAdruj figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rS5qxAdruj .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rS5roVk0MY {
+  padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background: #ffffff;
 }
-.cid-rS5ixdNSVY .mbr-text,
-.cid-rS5ixdNSVY blockquote {
-  color: #767676;
+.cid-rS5roVk0MY .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
 }
-.cid-rS5ixdNSVY .mbr-text P {
-  text-align: center;
+.cid-rS5roVk0MY .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
 }
-.cid-rS5iybLCLS {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-rS5roVk0MY .media-container-row .img-item .img-cont {
+  position: relative;
+  overflow: hidden;
 }
-.cid-rS5iybLCLS .mbr-text,
-.cid-rS5iybLCLS blockquote {
-  color: #767676;
+.cid-rS5roVk0MY .media-container-row .img-item .img-cont img {
+  width: 100%;
 }
-.cid-rS5iybLCLS .mbr-text P {
-  text-align: center;
+.cid-rS5roVk0MY .media-container-row .img-item .img-cont .img-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rS5roVk0MY .media-container-row .img-item .img-cont .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rS5roVk0MY .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rS5roVk0MY .img-item {
+    width: 100% !important;
+  }
+  .cid-rS5roVk0MY .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
 }
 .cid-rS26jt8tHh {
   padding-top: 15px;
