@@ -4,7 +4,7 @@
 
 ■使用ツール
 
-①Mobirise
+**①Mobirise**
 
 ↓ダウンロードサイト
 
@@ -16,7 +16,7 @@ MobiriseはノンコーディングでWEBページが構築できるツールで
 
 https://popo-design.net/mobirise-hp-make/
 
-②Googleマイマップ
+**②Googleマイマップ**
 
 Googleマップの機能で、自由にピン留めしたりマップをカスタマイズしたりする機能です。
 
@@ -24,7 +24,7 @@ Googleマップの機能で、自由にピン留めしたりマップをカス�
 
 https://join.biglobe.ne.jp/mobile/sim/gurashi/google_mymap181129/
 
-③Googleスプレットシート
+**③Googleスプレットシート**
 
 データの集計やグラフ作成に使用してます。
 
