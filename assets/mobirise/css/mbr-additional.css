@@ -542,8 +542,8 @@ a:hover {
   color: #4ac6ee;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -1273,7 +1273,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rSllStBrir .mbr-text {
-  color: #f9f295;
+  color: #ffffff;
 }
 .cid-rSllSu4eU9 {
   padding-top: 15px;
