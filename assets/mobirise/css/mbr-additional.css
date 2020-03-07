@@ -542,8 +542,8 @@ a:hover {
   color: #4ac6ee;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -1027,6 +1027,27 @@ section.lazy-placeholder:after {
 }
 .cid-rS56yM6gl2 .mbr-text P {
   text-align: center;
+}
+.cid-rSvYEwgMAg {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rSvYEwgMAg .title {
+  margin-bottom: 2rem;
+}
+.cid-rSvYEwgMAg .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSvYEwgMAg a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rSvYEwgMAg a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rSvYEwgMAg textarea.form-control {
+  min-height: 188px;
 }
 .cid-rRYOP7lt6X {
   padding-top: 30px;
