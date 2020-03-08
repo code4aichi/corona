@@ -50,6 +50,10 @@ https://join.biglobe.ne.jp/mobile/sim/gurashi/google_mymap181129/
 
 https://boxil.jp/beyond/a5559/
 
+参考：愛知県の感染者リスト（スプレッドシート）
+
+https://docs.google.com/spreadsheets/d/1mkXssunv92nDDfrHy_hRqTqW9T0lmlzHLZAJ6aw2xRE/edit?usp=sharing
+
 **④Github Pages**
 
 ↓使い方
@@ -57,3 +61,9 @@ https://boxil.jp/beyond/a5559/
 https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
 
 マップで使用しているデータは後日オープンデータとして公開予定です。
+
+**参考**
+
+関係図は以下のWEBサービスを使用して作成してます。
+
+https://www.lucidchart.com/
