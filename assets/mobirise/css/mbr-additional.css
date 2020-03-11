@@ -33,11 +33,11 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 2.4rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -69,9 +69,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -542,8 +542,8 @@ a:hover {
   color: #4ac6ee;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -728,7 +728,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
-  color: #ff3366;
+  color: #f7ed4a;
 }
 .cid-rSbdErPHrZ {
   padding-top: 30px;
