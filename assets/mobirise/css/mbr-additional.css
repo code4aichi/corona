@@ -857,6 +857,27 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-rST05Izw9g {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rST05Izw9g .image-block {
+  margin: auto;
+}
+.cid-rST05Izw9g figcaption {
+  position: relative;
+}
+.cid-rST05Izw9g figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rST05Izw9g .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rSD4duTAdv {
   padding-top: 15px;
   padding-bottom: 0px;
