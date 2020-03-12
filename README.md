@@ -70,6 +70,6 @@ https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
 
 https://www.lucidchart.com/
 
-使い方の詳細など疑問点はお気軽にご連絡ください。
+↓使い方の詳細など疑問点はお気軽にご連絡ください↓
 
 code4aichi@gmail.com
