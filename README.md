@@ -20,6 +20,8 @@ WEBサイト自体は、誰でも簡単に作れるようノンコーディン�
 
 別途サーバを用意したり、コードをガリガリ書く必要もなく公開できます。
 
+※リポジトリをローカルにダウンロードいただき「project.mobirise」をMobiriseでインポートいただけるとツールを使用して編集可能です。
+
 ■使用ツール
 
 **①Mobirise**
@@ -67,3 +69,7 @@ https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
 関係図は以下のWEBサービスを使用して作成してます。
 
 https://www.lucidchart.com/
+
+使い方の詳細など疑問点はお気軽にご連絡ください。
+
+code4aichi@gmail.com
